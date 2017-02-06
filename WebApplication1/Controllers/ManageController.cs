@@ -75,7 +75,7 @@ namespace WebApplication1.Controllers
             return View(model);
         }
 
-        //
+        
         // POST: /Manage/RemoveLogin
         [HttpPost]
         [ValidateAntiForgeryToken]
